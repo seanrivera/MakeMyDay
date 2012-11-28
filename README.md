@@ -1,4 +1,0 @@
-MakeMyDay
-=========
-
-Future Planning App. 
